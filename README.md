@@ -29,7 +29,7 @@ Trabajo con datos para convertir procesos complejos en productos claros, útiles
 ### 1. [Reporte ENSU](https://github.com/IsaiasEntropia/reporte-ensu)
 Pipeline de procesamiento y creación automatizada de reporte sobre la ENSU con Python.
 
-![alt text](ppt_ensu.png)
+![alt text](image.png)
 
 
 ## Actualmente me interesa
