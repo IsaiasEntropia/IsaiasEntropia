@@ -39,11 +39,6 @@ Pipeline de procesamiento y creación automatizada de reporte sobre la ENSU con 
 - Arquitectura y calidad de datos
 - Automatización de productos analíticos
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact)
-
 ## Contacto
 
 ¿Tienes un problema de datos con impacto social? colaboremos!
