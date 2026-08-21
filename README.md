@@ -1,4 +1,4 @@
-# Hola, soy Isaías Morales 🥷🏾
+# Hi, I'm Isaías Morales 🥷🏾
 
 Analista de datos con experiencia en estadística, análisis geoespacial, calidad de datos y automatización de reportes.  
 Trabajo con datos para convertir procesos complejos en productos claros, útiles y reproducibles.
