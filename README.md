@@ -1,19 +1,7 @@
 # Hi, I'm Isaías Morales 🥷🏾
 
-Analista de datos con experiencia en estadística, análisis geoespacial, calidad de datos y automatización de reportes.  
+Especialista en datos Analista de datos con experiencia en estadística, análisis geoespacial, calidad de datos y automatización de reportes.  
 Trabajo con datos para convertir procesos complejos en productos claros, útiles y reproducibles.
-
-## Tecnologías y herramientas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-2F6DB3?style=for-the-badge&logo=postgresql&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Áreas de trabajo
 
@@ -29,7 +17,13 @@ Trabajo con datos para convertir procesos complejos en productos claros, útiles
 ### 1. [Reporte ENSU](https://github.com/IsaiasEntropia/reporte-ensu)
 Pipeline de procesamiento y creación automatizada de reporte sobre la ENSU con Python.
 
-![alt text](image.png)
+![alt text](ensu.png)
+
+
+### 2. [Descomposición de series de tiempo SESNSP](https://github.com/IsaiasEntropia/des-serie-tiempo)
+Arquitectura de una aplicación R Shiny que visualiza los elementos de las series de tiempo de datos sobre carpetas de investigación homicidio doloso en México, con datos del SESNSP. [Vísita la aplicación](https://aplicacionesshinyisaias.shinyapps.io/serie-desc/)
+
+![alt text](serie-tiempo.png)
 
 
 ## Actualmente me interesa
